@@ -5,8 +5,7 @@
 🎓 Estudante de Defesa Cibernética (Estácio)
 
 ## Atualmente estudando
-
-- 🐍 Python
+- Python
 - HTML
 - CSS
 
