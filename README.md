@@ -4,11 +4,6 @@
 
 🎓 Estudante de Defesa Cibernética (Estácio)
 
-## Atualmente estudando
-- Python
-- HTML
-- CSS
-
 ## Objetivos
 
 - Me tornar um profissional de Cyber Security
