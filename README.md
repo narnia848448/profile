@@ -4,7 +4,7 @@
 
 🎓 Estudante de Defesa Cibernética (Estácio)
 
-## 🚀 Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
 ## Objetivos
 
