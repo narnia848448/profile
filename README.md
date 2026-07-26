@@ -5,7 +5,7 @@
 - 🎓 Estudante de Defesa Cibernética
 - 🐍 Estudando Python
 - 🌐 Desenvolvendo conhecimentos em desenvolvimento web
-- 🔐 Interessado em Cyber Security e proteção de sistemas
+- 🔵 Interessado em Blue Team e defesa de sistemas
 - 🧠 Buscando sempre compreender a lógica por trás do código
 
 ## 🚀 Tecnologias e conhecimentos
@@ -15,14 +15,18 @@
 
 ## 📚 Atualmente estudando
 
-- Desenvolvimento com Python
+- Python
 - JavaScript
 - Segurança da informação
+- Fundamentos de redes
+- Sistemas operacionais
+- Git e GitHub
 
 ## 🎯 Objetivos
 
-- Me tornar um profissional de Cyber Security
+- Me tornar um profissional de Blue Team
+- Trabalhar na defesa e proteção de sistemas
+- Aprender a identificar e analisar ameaças cibernéticas
 - Aprimorar minhas habilidades em programação
-- Compreender cada vez mais a lógica dos códigos
 - Desenvolver projetos que contribuam para o meu aprendizado
 - Compartilhar minha evolução e meus projetos no GitHub
