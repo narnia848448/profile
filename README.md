@@ -4,6 +4,8 @@
 
 🎓 Estudante de Defesa Cibernética (Estácio)
 
+## 🚀 Tecnologias e conhecimentos
+
 ## Objetivos
 
 - Me tornar um profissional de Cyber Security
