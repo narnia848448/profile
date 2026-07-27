@@ -20,7 +20,6 @@
 - Segurança da informação
 - Fundamentos de redes
 - Sistemas operacionais
-- Git e GitHub
 
 ## 🎯 Objetivos
 
