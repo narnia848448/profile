@@ -11,7 +11,7 @@
 ## 🚀 Tecnologias e conhecimentos
 
 - Python
-- Fundamentos de Segurança Cibernética
+
 
 ## 📚 Atualmente estudando
 
