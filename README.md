@@ -4,7 +4,6 @@
 
 - 🎓 Estudante de Defesa Cibernética
 - 🐍 Estudando Python
-- 🌐 Desenvolvendo conhecimentos em desenvolvimento web
 - 🔵 Interessado em Blue Team e defesa de sistemas
 - 🧠 Buscando sempre compreender a lógica por trás do código
 
@@ -16,11 +15,9 @@
 ## 📚 Atualmente estudando
 
 - Python
-- JavaScript
 - Segurança da informação
 - Fundamentos de redes
-- Sistemas operacionais
-
+  
 ## 🎯 Objetivos
 
 - Me tornar um profissional de Blue Team
